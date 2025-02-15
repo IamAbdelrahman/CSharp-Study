@@ -1,9 +1,5 @@
 ﻿namespace CSharpLabs;
-/*
-[Simple Math Expression Evaluator]
-Ask the user to enter math expression
-Evaluate the expression & print the result
-*/
+
 public class App
 {
   public static void Run()
